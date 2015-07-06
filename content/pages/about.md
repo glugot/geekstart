@@ -69,7 +69,7 @@ and gets added to [http://geekstart.tce.edu/][9]
 
  1. Think about an interesting article
  2. In your Geek Start local cloned folder, look for *contents* folder
- 3. Create a file with extension *.md" where you can write your article
+ 3. Create a file with extension *.md* where you can write your article
  4. We use markdown syntax for the article, to know more about markdown see 
     [https://help.github.com/articles/markdown-basics/][10]
 
@@ -80,13 +80,13 @@ Step 6 - Preview Article
 Once you are done with editing your article, you can preview it by issuing the 
 following command in your local clone of Geek Start repository:
 
-  $ make html
+          $ make html
 
 The above command will create the html files along with the article you added 
 in the *output* folder in the current directory. Use a web browser to view the 
 website, for example:
 
- $ firefox /home/stylesen/geekstart/output/index.html
+         $ firefox /home/stylesen/geekstart/output/index.html
 
 The article which you added should appear in the web browser. You can make 
 sure if the alignment, look and feel are good.
