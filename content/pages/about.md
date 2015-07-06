@@ -30,8 +30,12 @@ Prerequisite
 ------------
 
  1. Working GNU/Linux machine with internet connection
- 2. git version control system installed
- 3. pelican web site generator installed
+ 2. 'git' version control system installed
+ 3. 'make' command - available via build-essentials package in Debian based
+    systems
+ 4. pelican web site generator installed - use pip or Debian package
+    python-pelican
+ 5. python-markdown package installed
 
 Step 1 - Join GLUGOT
 --------------------
