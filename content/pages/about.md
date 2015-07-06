@@ -124,6 +124,12 @@ The publishing to [http://geekstart.tce.edu][9] happens via an automated
 script, which runs every 3 hours and publishes the website contents as seen in 
 Geek Start's master GitHub repository.
 
+Getting Help
+------------
+ * Email your questions to "glugot _at_ lists _dot_ tce _dot_ edu" with
+   '[geekstart]' tag on the subject line.
+ * We are available in #geekstart IRC channel on irc.freenode.net
+
 Suggested Reading
 =================
  * [About GLUGOT][2]
