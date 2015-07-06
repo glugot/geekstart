@@ -1,2 +1,1 @@
-# geekstart
-Geek Start - Community Blog of GNU/Linux User Groups of TCE
+content/pages/about.md
