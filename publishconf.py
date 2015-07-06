@@ -20,5 +20,7 @@ DELETE_OUTPUT_DIRECTORY = True
 
 # Following items are often useful when publishing
 
-#DISQUS_SITENAME = ""
+THEME='notmyidea'
+
+DISQUS_SITENAME = "geekstarttest"
 #GOOGLE_ANALYTICS = ""
