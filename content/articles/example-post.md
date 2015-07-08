@@ -6,10 +6,6 @@ Authors: Azhagu Selvan SP(tamizhgeek@gmail.com)
 Summary: A formal hello world post. 
 
 
-
-Hello World!
-============
-
 Come on, any geek venture is incomplete without a hello world :)
 
 
