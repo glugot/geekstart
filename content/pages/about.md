@@ -20,6 +20,7 @@ community blog so anyone can contribute to this blog as long as:
 
 The following infographic explains the workflow of Geek Start at a high level.
 
+
 ![Geek Start Work Flow] ({filename}/images/geekstartinfographic.jpg){:width="650px"}
 
 [Download Geek Start Work Flow in PDF]({filename}/pdfs/geekstartinfographic.pdf)
