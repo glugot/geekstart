@@ -1,6 +1,6 @@
 Title: Hello World!
 Category: random
-Tags: info; admin; about; introduction; getting-started
+Tags: info, admin, about, introduction, getting-started
 Date: 2015-07-06
 Authors: Azhagu Selvan SP(tamizhgeek@gmail.com)
 Summary: A formal hello world post. 
