@@ -36,7 +36,7 @@ def publish():
     os.chdir(DEST_DIR)
     try:
         subprocess.check_call(["make", "clean"])
-        subprocess.check_call(["make", "html"])
+        subprocess.check_call(["make", "publish"])
     except subprocess.CalledProcessError:
         print "make failed"
         raise
