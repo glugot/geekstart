@@ -29,6 +29,12 @@ Word Limit
 There is no word limit for content - we are looking for well researched
 content.
 
+License
+=======
+The content that gets published in Geek Start will be licensed under [Creative
+Commons Attribution 4.0 International License][1]. We expect authors to be
+aware of this license and send their contributions.
+
 Miscellaneous
 =============
  * We have a strict review mechanism where we look for original,
@@ -43,3 +49,5 @@ Miscellaneous
 
 *This page will be updated frequently and keep an eye on this page to look
 for new rules that may pop-up as we grow!*
+
+[1]: http://creativecommons.org/licenses/by/4.0/
